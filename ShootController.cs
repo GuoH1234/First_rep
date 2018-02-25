@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
--------------------------------------
 public class ShootController : MonoBehaviour {
 	public WeaponBase wea_InHand,wea_InPack;
 	public Transform GunPoint;	
